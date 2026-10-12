@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mvk\\web\\Supportsagen\\TællerApp\\TællerApp.csproj": {}
+    "C:\\Users\\mvk\\web\\Supportsagen\\Supportsagen med tæller\\TællerApp\\TællerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mvk\\web\\Supportsagen\\TællerApp\\TællerApp.csproj": {
+    "C:\\Users\\mvk\\web\\Supportsagen\\Supportsagen med tæller\\TællerApp\\TællerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mvk\\web\\Supportsagen\\TællerApp\\TællerApp.csproj",
+        "projectUniqueName": "C:\\Users\\mvk\\web\\Supportsagen\\Supportsagen med tæller\\TællerApp\\TællerApp.csproj",
         "projectName": "TællerApp",
-        "projectPath": "C:\\Users\\mvk\\web\\Supportsagen\\TællerApp\\TællerApp.csproj",
+        "projectPath": "C:\\Users\\mvk\\web\\Supportsagen\\Supportsagen med tæller\\TællerApp\\TællerApp.csproj",
         "packagesPath": "C:\\Users\\mvk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mvk\\web\\Supportsagen\\TællerApp\\obj\\",
+        "outputPath": "C:\\Users\\mvk\\web\\Supportsagen\\Supportsagen med tæller\\TællerApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mvk\\AppData\\Roaming\\NuGet\\NuGet.Config"
