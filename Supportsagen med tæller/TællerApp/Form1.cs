@@ -105,9 +105,20 @@ public partial class Form1 : Form
 
     private void UpdateCount(int newCount, string action)
     {
+        var timestamp = DateTime.Now.ToString("HH:mm:ss");
+        if (newCount is < -10 or > 10)
+        {
+            MessageBox.Show(
+                "Tælleren skal være mellem -10 og 10.",
+                "Grænse nået",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Information);
+            logList.Items.Insert(0, $"{timestamp} - Afvist {action}: tælleren forbliver {count}");
+            return;
+        }
+
         count = newCount;
         countLabel.Text = count.ToString();
-        var timestamp = DateTime.Now.ToString("HH:mm:ss");
         logList.Items.Insert(0, $"{timestamp} - {action}: {count}");
     }
 }
