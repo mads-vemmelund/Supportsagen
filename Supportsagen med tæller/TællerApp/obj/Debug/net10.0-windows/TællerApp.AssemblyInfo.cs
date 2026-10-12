@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TællerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38278b0f98e35a97fc33e9efade2a6a9129fc23c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43607af88c73df0414299eae518e8d1ac4c80f50")]
 [assembly: System.Reflection.AssemblyProductAttribute("TællerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TællerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

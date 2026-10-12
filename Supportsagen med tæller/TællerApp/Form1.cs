@@ -107,6 +107,7 @@ public partial class Form1 : Form
     {
         count = newCount;
         countLabel.Text = count.ToString();
-        logList.Items.Insert(0, $"{action}: {count}");
+        var timestamp = DateTime.Now.ToString("HH:mm:ss");
+        logList.Items.Insert(0, $"{timestamp} - {action}: {count}");
     }
 }
