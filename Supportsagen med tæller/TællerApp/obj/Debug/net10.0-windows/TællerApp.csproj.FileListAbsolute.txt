@@ -1,0 +1,15 @@
+C:\Users\mvk\web\Supportsagen\TællerApp\bin\Debug\net10.0-windows\TællerApp.exe
+C:\Users\mvk\web\Supportsagen\TællerApp\bin\Debug\net10.0-windows\TællerApp.deps.json
+C:\Users\mvk\web\Supportsagen\TællerApp\bin\Debug\net10.0-windows\TællerApp.runtimeconfig.json
+C:\Users\mvk\web\Supportsagen\TællerApp\bin\Debug\net10.0-windows\TællerApp.dll
+C:\Users\mvk\web\Supportsagen\TællerApp\bin\Debug\net10.0-windows\TællerApp.pdb
+C:\Users\mvk\web\Supportsagen\TællerApp\obj\Debug\net10.0-windows\TællerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvk\web\Supportsagen\TællerApp\obj\Debug\net10.0-windows\TællerApp.AssemblyInfoInputs.cache
+C:\Users\mvk\web\Supportsagen\TællerApp\obj\Debug\net10.0-windows\TællerApp.AssemblyInfo.cs
+C:\Users\mvk\web\Supportsagen\TællerApp\obj\Debug\net10.0-windows\TællerApp.csproj.CoreCompileInputs.cache
+C:\Users\mvk\web\Supportsagen\TællerApp\obj\Debug\net10.0-windows\TællerApp.sourcelink.json
+C:\Users\mvk\web\Supportsagen\TællerApp\obj\Debug\net10.0-windows\TællerApp.dll
+C:\Users\mvk\web\Supportsagen\TællerApp\obj\Debug\net10.0-windows\refint\TællerApp.dll
+C:\Users\mvk\web\Supportsagen\TællerApp\obj\Debug\net10.0-windows\TællerApp.pdb
+C:\Users\mvk\web\Supportsagen\TællerApp\obj\Debug\net10.0-windows\TællerApp.genruntimeconfig.cache
+C:\Users\mvk\web\Supportsagen\TællerApp\obj\Debug\net10.0-windows\ref\TællerApp.dll
